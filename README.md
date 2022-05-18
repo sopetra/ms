@@ -1,4 +1,4 @@
-# Numeričke metode za linearne sustave
+# Iterativne metode za linearne sustave
 
 [![CC BY-NC-SA 4.0][cc-shield]][cc]
 [![stability-beta](https://img.shields.io/badge/stability-beta-33bbff.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#beta)
@@ -8,11 +8,7 @@ Ms project for university course [Matematički softver](https://www.pmf.unizg.hr
 
 
 ## Kratki opis 
-
-
-## Pokretanje programa
-
-
+Pregled nekih iterativnih metoda za rješavanje linearnih sustava jednadžbi. 
 
 ## Licence
   
