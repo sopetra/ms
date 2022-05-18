@@ -8,7 +8,8 @@ Ms project for university course [Matematički softver](https://www.pmf.unizg.hr
 
 
 ## Kratki opis 
-Pregled nekih iterativnih metoda za rješavanje linearnih sustava jednadžbi. 
+1. `main.ipynb` Pregled nekih iterativnih metoda za rješavanje linearnih sustava jednadžbi. 
+2. `zadaca4.ipynb` crta Fibonaccijevu spiralu za neki jednoznamekasti prirodni broj.  
 
 ## Licence
   
