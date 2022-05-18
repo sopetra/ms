@@ -12,7 +12,7 @@ Pregled nekih iterativnih metoda za rješavanje linearnih sustava jednadžbi.
 
 ## Licence
   
- [Ms](https://github.com/sopetra/ms) © 2021 by [Petra Sočo](https://github.com/sopetra) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
+ [Ms](https://github.com/sopetra/ms) © 2020 by [Petra Sočo](https://github.com/sopetra) is licensed under [Attribution-NonCommercial-ShareAlike 4.0 International][cc].
 
 [![CC 4.0][cc-image]][cc]
 
